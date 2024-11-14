@@ -1,0 +1,14 @@
+C:\Users\macto\source\repos\Recursion\Recursion\bin\Debug\net8.0\Recursion.exe
+C:\Users\macto\source\repos\Recursion\Recursion\bin\Debug\net8.0\Recursion.deps.json
+C:\Users\macto\source\repos\Recursion\Recursion\bin\Debug\net8.0\Recursion.runtimeconfig.json
+C:\Users\macto\source\repos\Recursion\Recursion\bin\Debug\net8.0\Recursion.dll
+C:\Users\macto\source\repos\Recursion\Recursion\bin\Debug\net8.0\Recursion.pdb
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfo.cs
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.dll
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\refint\Recursion.dll
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.pdb
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.genruntimeconfig.cache
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\ref\Recursion.dll
