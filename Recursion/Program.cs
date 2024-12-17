@@ -16,7 +16,7 @@
                 array[i, j] = rand.Next(2);
                 Console.Write(array[i, j] + " ");
             }
-            Console.WriteLine(); 
+            Console.WriteLine();
         }
 
         // Ищем самую длинную цепочку
@@ -43,7 +43,7 @@
         {
             return 0;
         }
-        
+
         // Помечаем текущий элемент как посещённый
         visited[x, y] = true;
 
@@ -64,7 +64,6 @@
 
         // Сбрасываем отметку посещения
         visited[x, y] = false;
-
         return length;
     }
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macto\\source\\repos\\Recursion\\Recursion\\Recursion.csproj",
+      "projectUniqueName": "C:\\Projects\\Recursion\\Recursion\\Recursion.csproj",
       "projectName": "Recursion",
-      "projectPath": "C:\\Users\\macto\\source\\repos\\Recursion\\Recursion\\Recursion.csproj",
+      "projectPath": "C:\\Projects\\Recursion\\Recursion\\Recursion.csproj",
       "packagesPath": "C:\\Users\\macto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\macto\\source\\repos\\Recursion\\Recursion\\obj\\",
+      "outputPath": "C:\\Projects\\Recursion\\Recursion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\macto\\AppData\\Roaming\\NuGet\\NuGet.Config",
