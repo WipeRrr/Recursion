@@ -12,3 +12,4 @@ C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\refint\Recursio
 C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.pdb
 C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.genruntimeconfig.cache
 C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\ref\Recursion.dll
+C:\Users\macto\source\repos\Recursion\Recursion\obj\Debug\net8.0\Recursion.sourcelink.json
